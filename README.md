@@ -2,6 +2,8 @@
 
 The script adds the ability to walk to the character with footstep sound effects. The sounds change depending on the material of the object on which the character is located and by the texture index when on the terrain.
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/3Azd1lJEaxk/0.jpg)](https://www.youtube.com/watch?v=3Azd1lJEaxk)
+
 ## Setup
 
 ### Footstep.cs
