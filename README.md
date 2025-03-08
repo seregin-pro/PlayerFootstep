@@ -1,4 +1,4 @@
-# Player Footstep for Unity 3D
+# Player Footstep Sound for Unity 3D
 
 The script adds the ability to walk to the character with footstep sound effects. The sounds change depending on the material of the object on which the character is located and by the texture index when on the terrain.
 
