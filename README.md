@@ -9,9 +9,11 @@ The script adds the ability to walk to the character with footstep sound effects
 1. Add the script Footstep.cs to the Character Controller of your Player.
 
 2. Add Terrain Layers. 
+
 ![Terrain Layers](https://github.com/seregin-pro/PlayerFootstep/blob/main/Screenshots/001.png)
 
 3. Set index of a Terrain Layer to Element and add Audio Clips for the Terrain Layer
+
 ![Footstep.cs](https://github.com/seregin-pro/PlayerFootstep/blob/main/Screenshots/002.png)
 
 ### TextureTerrainData.cs
